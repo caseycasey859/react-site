@@ -20,4 +20,3 @@ export function TitleZone(){
     // <!-- 타이틀Zone끝 --> 
   );
 }
-
