@@ -1,7 +1,7 @@
 export function BodyArea(){
-    return(
-      <>
-      <p>BodyArea</p>
-      </>  
-    );
+  return (
+    <>
+    <p>BodyArea</p>    
+    </>
+  );
 }
