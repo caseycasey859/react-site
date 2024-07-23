@@ -1,9 +1,15 @@
 import './App.css';
+import {topArea}  from './componetes/TopArea';
+import {topArea}  from './componetes/BodyArea';
+import {topArea}  from './componetes/BottomArea';
 
 function App() {
   return (
     <div className="App">
-       123
+      <div id=""></div>
+      <TopArea/>
+      <BodyArea/>
+      <BottomArea/>
     </div>
   );
 }
